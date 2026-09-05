@@ -2,23 +2,20 @@
 
 # Fikret Çalkın
 
+<!-- Asla Kesilmeyen Canlı Daktilo Animasyonu -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1000&color=10B981&center=true&vcenter=true&width=620&lines=AI+Systems+%26+Applied+ML+Engineer;Architect+of+OmniEngine+Cognitive+Core;Creator+of+Velaris-Motion+Generative+Video;Developer+of+OctoReview-AI;PyTorch+%E2%80%A2+CUDA+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1000&color=10B981&center=true&vcenter=true&width=500&lines=AI+Systems+%26+Applied+ML;Architect+of+OmniEngine;Creator+of+Velaris-Motion;Developer+of+OctoReview-AI;PyTorch+%E2%80%A2+CUDA+%E2%80%A2+TypeScript" alt="Typing SVG" />
 </a>
 
-**Engineering sovereign AI runtimes, local diffusion video pipelines, and developer tooling.**
+<p>
+  <b>Engineering sovereign AI runtimes, local diffusion video pipelines, and developer tooling.</b>
+</p>
 
-<br />
-
-<a href="https://github.com/sakipfikrret">
-  <img src="https://img.shields.io/badge/GitHub-sakipfikrret-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-sakipfikrret-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:contact@sakipfikrret.dev">
-  <img src="https://img.shields.io/badge/Email-Contact-zinc?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/sakipfikrret"><img src="https://img.shields.io/badge/GitHub-sakipfikrret-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-sakipfikrret-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact@sakipfikrret.dev"><img src="https://img.shields.io/badge/Email-Contact-zinc?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -65,17 +62,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,ts,react,nextjs,tailwind,nodejs,postgres,docker,git,githubactions" />
 
-</div>
-
----
-
-### 📊 Contribution Matrix
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakipfikrret&theme=github-compact&bg_color=09090b&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-<br />
+<br /><br />
 
 <sub>Engineered with deterministic safety, local privacy, and high-performance ergonomics. Maintained by <a href="https://github.com/sakipfikrret">@sakipfikrret</a>.</sub>
 
