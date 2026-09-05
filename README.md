@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:18181b,70:312e81,100:06b6d4&height=240&section=header&text=Fikret%20%C3%87alk%C4%B1n&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Systems%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:312e81,100:06b6d4&height=250&section=header&text=Fikret%20%C3%87alk%C4%B1n&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Systems%20Enthusiast&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;AI+Systems+Enthusiast+%F0%9F%A7%A0;Building+Autonomous+AI+Systems+%F0%9F%A4%96;Full-Stack+%26+Backend+Developer+%F0%9F%8C%90;Security+%7C+Automation+%7C+Developer+Tools;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;AI+Systems+Enthusiast+%F0%9F%A7%A0;Building+OmniEngine+%F0%9F%A7%A0;Exploring+Autonomous+AI+Systems+%F0%9F%A4%96;Full-Stack+%26+Backend+Developer+%F0%9F%8C%90;Always+Learning.+Always+Experimenting.+Always+Building." alt="Typing SVG"/>
 
-<br/><br/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sakipfikrret&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS">
 
 <a href="https://github.com/sakipfikrret">
-<img src="https://img.shields.io/badge/GitHub-sakipfikrret-18181b?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/sakipfikrret?style=for-the-badge&logo=github&label=FOLLOWERS&color=312e81">
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sakipfikrret&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/sakipfikrret?style=for-the-badge&logo=github&label=FOLLOWERS&color=312e81"/>
 
 </div>
 
@@ -28,7 +26,7 @@
 
 I'm an **Internet & Network Technologies graduate** interested in building software systems, AI-powered applications, automation tools, developer tools, and experimental AI architectures.
 
-I enjoy taking an idea through:
+I enjoy taking an idea from:
 
 <p align="center">
 
@@ -48,443 +46,294 @@ I enjoy taking an idea through:
 
 ---
 
-# 🚀 Featured Project
+# 🧠 Main Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:312e81,100:06b6d4&height=110&text=OCTOREVIEW-AI&fontSize=42&fontColor=ffffff&animation=fadeIn" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:312e81,100:06b6d4&height=120&text=OMNIENGINE&fontSize=46&fontColor=ffffff&animation=fadeIn" width="90%"/>
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/sakipfikrret/octoreview-ai">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-18181b?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/sakipfikrret/octoreview-ai">
-<img src="https://img.shields.io/github/stars/sakipfikrret/octoreview-ai?style=for-the-badge&logo=github&label=STARS&color=06b6d4"/>
-</a>
-
-<a href="https://github.com/sakipfikrret/octoreview-ai">
-<img src="https://img.shields.io/github/license/sakipfikrret/octoreview-ai?style=for-the-badge&label=LICENSE"/>
+<a href="https://github.com/sakipfikrret/OmniEngine">
+<img src="https://img.shields.io/badge/MAIN%20PROJECT-OmniEngine-06b6d4?style=for-the-badge&logo=github">
 </a>
 
 </div>
 
-<br/>
+## 🧠 OmniEngine
 
-### 🤖 Autonomous GitHub Pull Request Reviewer
+**OmniEngine** is my primary and long-term experimental AI project.
 
-**OctoReview-AI** is an engineering-focused AI code review platform and CLI agent designed to inspect GitHub Pull Requests with automated security, performance, architectural and code-health analysis.
+It focuses on exploring how **local models, specialized experts, memory, structured knowledge and autonomous reasoning systems** can work together as a modular AI architecture.
 
-Instead of simply generating a generic AI response, OctoReview-AI presents findings directly alongside the code diff through an interactive developer-focused interface.
+The goal isn't simply to build another chatbot.
 
----
-
-## 🖥️ OctoReview-AI Dashboard
-
-<div align="center">
-
-<a href="https://github.com/sakipfikrret/octoreview-ai">
-
-<img src="https://raw.githubusercontent.com/sakipfikrret/octoreview-ai/main/public/assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-09-06%20011428.png" alt="OctoReview-AI Dashboard" width="95%"/>
-
-</a>
-
-<br/>
-
-<sub>Interactive OctoReview-AI review dashboard</sub>
-
-</div>
+The goal is to explore **how an AI system can reason, remember, verify and collaborate internally.**
 
 ---
 
-## 🧠 What Makes It Different?
+## 🏗️ OmniEngine Architecture
+
+```text
+                         ┌─────────────────────────┐
+                         │       OMNIENGINE        │
+                         │     AI ORCHESTRATOR     │
+                         └────────────┬────────────┘
+                                      │
+             ┌────────────────────────┼────────────────────────┐
+             │                        │                        │
+             ▼                        ▼                        ▼
+      ┌─────────────┐          ┌─────────────┐          ┌─────────────┐
+      │   LOCAL     │          │   EXPERT    │          │   MEMORY    │
+      │    LLMs     │          │   SYSTEMS   │          │  SYSTEMS    │
+      └──────┬──────┘          └──────┬──────┘          └──────┬──────┘
+             │                        │                        │
+             └────────────────────────┼────────────────────────┘
+                                      ▼
+                           ┌─────────────────────┐
+                           │   KNOWLEDGE GRAPH   │
+                           │      + GRAPH-RAG    │
+                           └──────────┬──────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │  REASONING /        │
+                           │  VERIFICATION       │
+                           └──────────┬──────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │     SYNTHESIS       │
+                           │   FINAL RESPONSE    │
+                           └─────────────────────┘
+```
+
+---
+
+## 🔬 OmniEngine Focus
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+| 🧠 AI Architecture | 🤖 Intelligence | 🧩 Knowledge |
+|:---:|:---:|:---:|
+| Mixture of Experts | Autonomous Agents | Knowledge Graphs |
+| Modular Experts | Expert Collaboration | Graph-RAG |
+| Local-first AI | Structured Reasoning | Memory Systems |
 
-### 🔐
-### Security
-
-Security vulnerability detection
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-### AI Reasoning
-
-LLM-assisted code analysis
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔎
-### Diff Analysis
-
-Inline code diagnostics
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-### Code Health
-
-Risk & complexity metrics
-
-</td>
-</tr>
-</table>
+| 🛡️ Reliability | 🧬 Research | ⚙️ Engineering |
+|:---:|:---:|:---:|
+| Verification | Neuro-Symbolic AI | Modular Architecture |
+| Hallucination Reduction | Experimental AI | CPU / Local Systems |
 
 </div>
 
 ---
 
-# ⚡ Core Features
-
-### 🔐 Security Analysis
-
-Detects potential problems such as:
-
-- Hardcoded secrets
-- Security vulnerabilities
-- Dangerous patterns
-- Architectural risks
-- Potential race conditions
-- Memory-related problems
-
----
-
-### 🧠 AI-Powered Code Review
-
-The analysis engine evaluates code changes with an LLM-based reasoning layer.
-
-The system focuses on:
+## 🧠 Core Concepts
 
 ```text
-Security
-   +
-Performance
-   +
-Architecture
-   +
-Code Health
-   ↓
-Actionable Diagnostics
-```
-
----
-
-### 🔎 Interactive Diff Inspector
-
-OctoReview-AI provides a GitHub-style diff interface with:
-
-- Multi-file diff inspection
-- Collapsible files
-- Addition / deletion statistics
-- Inline diagnostics
-- Exact line references
-- Suggested fixes
-- One-click copy interactions
-
----
-
-### 📊 Review Health Dashboard
-
-The interface exposes multiple signals for each review:
-
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│       SECURITY RISK                     │
-│       ─────────────                     │
-│                                         │
-│       CODE HEALTH                       │
-│       ───────────                       │
-│                                         │
-│       COMPLEXITY IMPACT                 │
-│       ─────────────────                 │
-│                                         │
-│       CI / CD STATUS                    │
-│       ──────────────                    │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
----
-
-### ⌨️ Keyboard-First Workflow
-
-Designed with Linear / Vim-style navigation principles.
-
-| Key | Action |
-|:---:|---|
-| `j` | Next review |
-| `k` | Previous review |
-| `Enter` | Open selected review |
-| `Space` | Open selected review |
-
-The goal is to make Pull Request triage faster without constantly reaching for the mouse.
-
----
-
-# 🏗️ Architecture
-
-```text
-                    ┌──────────────────────┐
-                    │   GitHub Pull Request │
-                    │      / Raw Diff       │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Action Runner / CLI  │
-                    │    / Web Interface   │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Git Diff Parser &     │
-                    │     Normalizer        │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ LLM Reasoning + AST   │
-                    │      Evaluation       │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Structured Findings  │
-                    │    & Health Metrics  │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ OctoReview Dashboard │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Developer Review /   │
-                    │     One-Click Fix    │
-                    └──────────────────────┘
-```
-
----
-
-# 🧰 Technology Behind OctoReview
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,react,vite,tailwind,nodejs,python,github&theme=dark" alt="Tech Stack"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Automation-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-AI%20Reasoning-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧩 Project Components
-
-```text
-octoreview-ai/
-│
-├── 🐍 octoreview/
-│   ├── analyzer.py
-│   ├── github.py
-│   ├── config.py
-│   ├── exceptions.py
-│   └── cli.py
-│
-├── ⚛️ src/
-│   ├── components/
-│   │   ├── dashboard/
-│   │   ├── diff-viewer/
-│   │   └── modals/
-│   │
-│   ├── hooks/
-│   ├── types/
-│   ├── lib/
-│   └── App.tsx
-│
-├── 🖼️ public/
-│   └── assets/
-│
-├── 📦 package.json
-├── 🐍 requirements.txt
-└── 📄 README.md
-```
-
----
-
-# 🚀 Three Ways To Use It
-
-### 01 — GitHub Action
-
-Automatically analyze Pull Requests inside CI/CD workflows.
-
-```yaml
-on:
-  pull_request:
-    types: [opened, synchronize, reopened]
-```
-
----
-
-### 02 — Web Dashboard
-
-Analyze a GitHub Pull Request or paste a raw Git diff directly into the interactive dashboard.
-
-```text
-GitHub PR URL
-      │
-      ▼
-Analyze Diff
-      │
-      ▼
-AI Review
-      │
-      ▼
-Security + Performance + Architecture
-      │
-      ▼
-Interactive Findings
-```
-
----
-
-### 03 — CLI
-
-Run code analysis directly from the terminal.
-
-```bash
-git diff main | python -m octoreview.cli --stdin
-```
-
-Or inspect a GitHub PR:
-
-```bash
-python -m octoreview.cli --repo "owner/repository" --pr 123
-```
-
----
-
-# 🔬 Other Areas I'm Exploring
-
-## 🤖 Artificial Intelligence
-
-```text
-Local LLMs
+Local AI
    │
-   ├── AI Agents
+   ├── Local LLM Inference
+   │
+   ├── Mixture of Experts
+   │
+   ├── Expert Routing
+   │
+   ├── Memory
+   │
    ├── Knowledge Graphs
+   │
    ├── Graph-RAG
-   ├── Memory Systems
-   ├── Expert Architectures
-   └── Neuro-Symbolic AI
-```
-
-## 💻 Software Engineering
-
-```text
-Backend Architecture
    │
-   ├── API Design
-   ├── Full-Stack Development
-   ├── Testing
-   ├── Automation
-   └── System Reliability
-```
-
-## 🛠️ Developer Tools
-
-```text
-Developer Productivity
+   ├── Structured Reasoning
    │
-   ├── Code Analysis
-   ├── Testing Tools
-   ├── Automation
-   ├── AI-assisted Development
-   └── Experimental Tooling
+   ├── Verification
+   │
+   └── Neuro-Symbolic Approaches
 ```
+
+> **OmniEngine is an experimental platform for exploring how smaller local models can be combined with structured reasoning and specialized expert systems.**
 
 ---
 
-# 🧠 Development Philosophy
-
-I don't just want software to **work**.
-
-I want to understand:
-
-```text
-WHY does it work?
-        ↓
-WHERE can it fail?
-        ↓
-HOW can it be improved?
-        ↓
-CAN the architecture be better?
-        ↓
-CAN the idea become something bigger?
-```
-
-My usual development loop:
+# 🔬 Side Project
 
 <div align="center">
 
-### 💡 IDEA
-### ↓
-### 🧪 PROTOTYPE
-### ↓
-### 🔍 TEST
-### ↓
-### ⚠️ FIND WEAKNESSES
-### ↓
-### 🔧 IMPROVE
-### ↓
-### ♻️ REFACTOR
-### ↓
-### 🚀 REPEAT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:374151,100:0891b2&height=100&text=OCTOREVIEW-AI&fontSize=40&fontColor=ffffff&animation=fadeIn" width="85%"/>
+
+<br><br>
+
+<a href="https://github.com/sakipfikrret/octoreview-ai">
+<img src="https://img.shields.io/badge/SIDE%20PROJECT-OctoReview--AI-0891b2?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+## 🤖 OctoReview-AI
+
+**OctoReview-AI** is a separate experimental project focused on AI-assisted software engineering.
+
+It is an **autonomous GitHub Pull Request review system** designed to analyze code changes and provide structured engineering feedback.
+
+### 🔐 Security
+
+- Vulnerability detection
+- Hardcoded secret detection
+- Risk analysis
+- Dangerous pattern detection
+
+### 🧠 AI Code Analysis
+
+- LLM-assisted reasoning
+- AST-based analysis
+- Architecture analysis
+- Performance analysis
+- Code health evaluation
+
+### 🔎 Developer Experience
+
+- Interactive diff viewer
+- Inline diagnostics
+- Risk indicators
+- Code metrics
+- Suggested fixes
+- Keyboard-first navigation
+
+---
+
+## 🖥️ OctoReview-AI
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sakipfikrret/octoreview-ai/main/public/assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-09-06%20011428.png" width="95%" alt="OctoReview-AI Dashboard">
+
+<br>
+
+<sub>AI-powered Pull Request review dashboard</sub>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🛠️ Tech Stack
+
+## 💻 Languages
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakipfikrret&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakipfikrret&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust&theme=dark" alt="Languages">
 
 </div>
 
-<br/>
+## ⚙️ Backend
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sakipfikrret&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend">
+
+</div>
+
+## 🌐 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend">
+
+</div>
+
+## 🗄️ Databases & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,git,github&theme=dark" alt="Infrastructure">
+
+</div>
+
+## 🤖 AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Local_AI-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Mixture_of_Experts-312E81?style=for-the-badge">
+<img src="https://img.shields.io/badge/Graph--RAG-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Knowledge_Graph-06B6D4?style=for-the-badge">
+
+</div>
+
+---
+
+# 🌐 Other Things I Build
+
+I also create smaller projects to experiment with:
+
+- 🌐 Full-stack web applications
+- ⚙️ Backend systems
+- 🔌 APIs
+- 🧪 Testing & QA
+- 🤖 AI automation
+- 🎨 Modern UI/UX
+- 🛠️ Developer tooling
+- 🎵 Creative AI applications
+
+Some projects are intentionally small.
+
+They exist to test ideas quickly before deciding whether they deserve to become something bigger.
+
+---
+
+# 🧪 My Development Approach
+
+<div align="center">
+
+```text
+              💡 IDEA
+                 │
+                 ▼
+           🧪 PROTOTYPE
+                 │
+                 ▼
+             🔍 TEST
+                 │
+                 ▼
+        ⚠️ FIND WEAKNESSES
+                 │
+                 ▼
+            🔧 IMPROVE
+                 │
+                 ▼
+           ♻️ REFACTOR
+                 │
+                 ▼
+             🚀 REPEAT
+```
+
+</div>
+
+> **"If it works, that's only the beginning."**
+
+I enjoy experimenting with unconventional approaches and trying to turn difficult technical ideas into practical systems.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakipfikrret&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakipfikrret&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sakipfikrret&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak">
 
 </div>
 
@@ -494,7 +343,7 @@ My usual development loop:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakipfikrret&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sakipfikrret&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="GitHub Trophies">
 
 </div>
 
@@ -504,7 +353,17 @@ My usual development loop:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakipfikrret&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakipfikrret&bg_color=0d1117&color=06b6d4&line=312e81&point=ffffff&area_color=312e81&area=true&hide_border=true" width="95%" alt="Contribution Activity">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sakipfikrret/sakipfikrret/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake">
 
 </div>
 
@@ -514,28 +373,58 @@ My usual development loop:
 
 <div align="center">
 
-| 🧠 Local AI | 🤖 Autonomous Agents | 🕸️ Knowledge Graphs |
-|:---:|:---:|:---:|
-| Local-first architectures | Intelligent automation | Graph-RAG |
-
-| 🔐 Code Security | ⚙️ Developer Tools | 🧪 Experimental AI |
-|:---:|:---:|:---:|
-| AI-assisted analysis | Developer productivity | New architectures |
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║              🧠 OMNIENGINE                      ║
+║                                                  ║
+║       Local & Autonomous AI Systems              ║
+║                                                  ║
+║       Mixture of Experts                         ║
+║       Memory Architectures                       ║
+║       Knowledge Graphs                            ║
+║       Graph-RAG                                  ║
+║       Structured Reasoning                       ║
+║       AI Agent Systems                           ║
+║       Verification & Reliability                 ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# 📫 Connect
+# 🎯 Areas of Interest
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 💻 Software Engineering | 🧪 Experimental Systems |
+|:---:|:---:|:---:|
+| Local LLMs | Backend Architecture | AI Architectures |
+| AI Agents | Full-Stack Development | Developer Tools |
+| Knowledge Graphs | API Design | Autonomous Systems |
+| Graph-RAG | Testing | Creative AI |
+| Memory Systems | Reliability | Generative Systems |
+
+</div>
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/sakipfikrret">
-<img src="https://img.shields.io/badge/GitHub-sakipfikrret-18181b?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-sakipfikrret-18181b?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/sakipfikrret/OmniEngine">
+<img src="https://img.shields.io/badge/MAIN%20PROJECT-OmniEngine-312e81?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/sakipfikrret/octoreview-ai">
-<img src="https://img.shields.io/badge/Featured%20Project-OctoReview--AI-06b6d4?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/SIDE%20PROJECT-OctoReview--AI-0891b2?style=for-the-badge&logo=github">
 </a>
 
 </div>
@@ -546,19 +435,19 @@ My usual development loop:
 
 ### ⚡ "I like building things that shouldn't be easy to build."
 
-<br/>
+<br>
 
 Whether it's an AI architecture, a developer tool,
 a full-stack application, or an experimental idea —
 
-**I enjoy turning concepts into working software.**
+<strong>I enjoy turning concepts into working software.</strong>
 
-<br/>
+<br><br>
 
 <strong>Always learning. Always experimenting. Always building.</strong>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:09090b&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:020617&height=140&section=footer" width="100%"/>
 
 </div>
