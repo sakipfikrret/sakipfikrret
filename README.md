@@ -1,185 +1,273 @@
 <div align="center">
 
-# Fikret Çalkın
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=180&section=header&text=Fikret%20Çalkın&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### Software Developer · AI Systems Builder · Developer Tools
 
-I build practical software around **AI, developer tooling, automation, and intelligent systems**.
+<p>
+  <a href="https://github.com/sakipfikrret">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-**Architect of OmniEngine**
+**Building intelligent systems, developer tools, and AI-powered software.**
 
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakipfikrret)
+*Architect of OmniEngine*
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-I'm a software developer focused on turning ideas into working systems.
-
-I enjoy building projects where **AI, software engineering, automation, and developer experience** intersect.
-
-My current interests include:
-
-- AI systems and local-first architectures
-- AI-assisted developer tools
-- Code analysis and automated verification
-- Agentic workflows
-- Backend and system design
-- Full-stack application development
-
-I care about more than getting something to run.
-
-I like understanding **why it works, how it fails, how it can be tested, and how it can be improved.**
-
----
-
-## Featured Projects
-
-### 🧠 OmniEngine
-
-**Local-first AI engine for building intelligent systems.**
-
-OmniEngine is my main long-term project and the foundation of my experiments with local AI, memory, knowledge representation, reasoning, and autonomous workflows.
-
-**Focus**
-
-`Local AI` · `LLMs` · `Memory Systems` · `Knowledge Graphs` · `Graph-RAG` · `Agent Systems` · `Verification` · `Neuro-Symbolic AI`
-
-> An ongoing experiment in building AI systems that can reason, retrieve, remember, verify, and operate locally.
-
----
-
-### 🔍 OctoReview AI
-
-**AI-powered GitHub Pull Request review platform.**
-
-OctoReview analyzes code changes and presents AI-assisted findings through a developer-focused interface.
-
-**Focus**
-
-`React` · `TypeScript` · `Python` · `Gemini` · `GitHub API` · `Vite` · `Tailwind CSS`
-
-The project includes:
-
-- Pull Request and diff analysis
-- AI-generated code review findings
-- Security-oriented analysis
-- Code quality insights
-- Interactive diff inspection
-- CLI workflow
-- GitHub Actions integration
-- Test and verification workflow
-
-The project was developed using an **AI-assisted engineering workflow**: I define the product direction and architecture, test the implementation, evaluate failures, iterate on the design, and use AI as an implementation partner.
-
----
-
-## What I Work With
-
-### Languages
-
-`Python` `TypeScript` `JavaScript` `Rust`
-
-### Frontend
-
-`React` `Next.js` `Vite` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Express` `FastAPI`
-
-### AI / Data
-
-`LLMs` `PyTorch` `Transformers` `RAG` `Graph-RAG` `Knowledge Graphs` `Vector Search`
-
-### Infrastructure & Tools
-
-`Git` `GitHub` `Docker` `Linux` `PostgreSQL` `Redis`
-
----
-
-## Engineering Approach
-
-I usually work through an iterative development loop:
+I'm a software developer interested in the intersection of:
 
 ```text
-Idea
-  ↓
-Architecture
-  ↓
-Prototype
-  ↓
-Test
-  ↓
-Find weaknesses
-  ↓
-Refine
-  ↓
-Verify
-  ↓
-Repeat
-```
-
-I use AI tools extensively during development, but I don't treat generated code as automatically correct.
-
-My workflow is closer to:
-
-```text
-AI-assisted implementation
+Artificial Intelligence
         +
-Human architecture
+Software Engineering
         +
-Testing
-        +
-Code review
-        +
-Iteration
-```
-
-The goal is simple:
-
-> **Use AI to build faster without lowering engineering standards.**
-
----
-
-## Current Direction
-
-I'm currently exploring the intersection of:
-
-```text
-AI
-+
 Developer Tools
-+
+        +
 Automation
-+
+        +
 Verification
 ```
 
-I'm particularly interested in systems that don't just generate output, but can **inspect, execute, evaluate, and improve their own work**.
+I enjoy turning ideas into working systems and improving them through
+**experimentation, testing, iteration, and engineering discipline.**
+
+My main interests include:
+
+- Local-first AI systems
+- LLMs and agentic workflows
+- Developer productivity tools
+- Code analysis and verification
+- Backend and system architecture
+- Full-stack application development
+
+> **I don't just want software to work. I want to understand why it works, how it fails, and how to make it better.**
 
 ---
 
-## GitHub
-
-Most of my public work is experimental and project-driven.
-
-I prefer building complete systems and learning through implementation rather than limiting myself to a single technology or framework.
+# 🚀 Featured Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakipfikrret&show_icons=true&theme=github_dark&hide_border=true)
+### 🧠 OmniEngine
+
+**Local-first AI engine for intelligent systems**
 
 </div>
 
+OmniEngine is my main long-term project exploring local AI, memory,
+knowledge representation, reasoning, verification, and autonomous workflows.
+
+```text
+Local AI
+   │
+   ├── LLM Inference
+   ├── Memory Systems
+   ├── Knowledge Graphs
+   ├── Graph-RAG
+   ├── Agent Orchestration
+   ├── Verification
+   └── Neuro-Symbolic Reasoning
+```
+
+The long-term goal is to build AI systems that can:
+
+`Reason` · `Remember` · `Retrieve` · `Verify` · `Act`
+
 ---
 
 <div align="center">
 
-### Build → Test → Learn → Improve
+### 🔍 OctoReview AI
+
+**AI-powered GitHub Pull Request review platform**
+
+</div>
+
+OctoReview is a developer-focused tool for analyzing GitHub Pull Requests
+and code changes using AI-assisted review workflows.
+
+**Technology**
+
+`React` `TypeScript` `Python` `Gemini` `GitHub API` `Vite` `Tailwind CSS`
+
+**Capabilities**
+
+```text
+GitHub PR
+   ↓
+Diff Analysis
+   ↓
+AI Review
+   ↓
+Security Findings
+   ↓
+Code Quality Analysis
+   ↓
+Interactive Review
+   ↓
+Verification
+```
+
+The project was developed using an **AI-assisted engineering workflow**:
+
+```text
+Product idea
+     ↓
+Architecture
+     ↓
+AI-assisted implementation
+     ↓
+Testing
+     ↓
+Feedback
+     ↓
+Iteration
+     ↓
+Code review
+```
+
+---
+
+# 🛠️ Technology
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
+
+### Backend & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis,docker,linux,git,github" />
+</p>
+
+### AI / Machine Learning
+
+```text
+LLMs
+Transformers
+PyTorch
+RAG
+Graph-RAG
+Knowledge Graphs
+Vector Search
+Agent Systems
+Local Inference
+```
+
+---
+
+# ⚙️ How I Build
+
+My development process usually looks like this:
+
+```text
+              IDEA
+                │
+                ▼
+          ARCHITECTURE
+                │
+                ▼
+            PROTOTYPE
+                │
+                ▼
+              TEST
+                │
+                ▼
+       FIND WEAKNESSES
+                │
+                ▼
+             REFINE
+                │
+                ▼
+             VERIFY
+                │
+                ▼
+             REPEAT
+```
+
+I use AI tools as development partners, but generated code is never treated
+as automatically correct.
+
+**AI accelerates implementation.  
+Engineering validates the result.**
+
+---
+
+# 🧠 Current Focus
+
+```text
+┌───────────────────────────────────────────┐
+│                                           │
+│            AI + ENGINEERING               │
+│                                           │
+│  Local AI          Developer Tools        │
+│      │                    │               │
+│      └──────────┬─────────┘               │
+│                 │                         │
+│             Automation                   │
+│                 │                         │
+│                 ▼                         │
+│             Verification                 │
+│                                           │
+└───────────────────────────────────────────┘
+```
+
+I'm particularly interested in systems that don't simply generate output,
+but can **inspect, execute, evaluate, verify, and improve their own work.**
+
+---
+
+# 📈 Building in Public
+
+I prefer project-driven learning.
+
+Rather than building many disconnected demos, I like taking an idea,
+turning it into a working system, discovering its weaknesses, and iterating
+until the architecture becomes stronger.
+
+```text
+Build
+ ↓
+Break
+ ↓
+Understand
+ ↓
+Fix
+ ↓
+Improve
+```
+
+---
+
+# 🎯 2026 Direction
+
+My current direction is focused on:
+
+**AI Systems + Developer Tools + Autonomous Workflows + Verification**
+
+Long term, I want to explore software where AI is not only generating code
+or information, but actively participating in the complete engineering loop.
+
+---
+
+<div align="center">
+
+## Build → Test → Learn → Improve
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
