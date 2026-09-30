@@ -1,273 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=180&section=header&text=Fikret%20Çalkın&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# Fikret Çalkın
 
-### Software Developer · AI Systems Builder · Developer Tools
+**Quality Engineering · AI-assisted testing · Full-stack systems**
 
-<p>
-  <a href="https://github.com/sakipfikrret">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I build practical software around **testing, evidence, automation, and intelligent failure analysis**.
 
-**Building intelligent systems, developer tools, and AI-powered software.**
-
-*Architect of OmniEngine*
+[LinkedIn](https://www.linkedin.com/in/sakip-fikret-çalkın/) · [GitHub](https://github.com/sakipfikrret)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a software developer interested in the intersection of:
+I'm a software-focused graduate working at the intersection of **Quality Engineering, AI-assisted testing, and full-stack development**.
+
+My projects are usually built around one question:
+
+> **Can we make software quality more observable, testable, and explainable?**
+
+I use AI as an engineering tool rather than treating it as a black box. That means caring about **evidence, validation, failure states, security, and human review** alongside the AI layer.
+
+---
+
+## Selected Work
+
+### QA//LAB
+**AI-assisted Quality Engineering workspace**
+
+A full-stack QA platform designed around the investigation loop:
 
 ```text
-Artificial Intelligence
+Requirement
+    ↓
+Risk Scan
+    ↓
+AI Test Design
+    ↓
+Test Execution
+    ↓
+Evidence
+    ↓
+AI Failure Triage
+    ↓
+Bug / Regression Insight
+```
+
+**Focus**
+- Requirement → test → run → evidence → defect traceability
+- AI-assisted test design and risk analysis
+- Evidence-grounded failure triage
+- Human review gates for generated test cases
+- Project-level authorization and secure sessions
+- API, component, and E2E testing
+
+**Stack:** React · TypeScript · Vite · Node.js · Express · SQLite · Gemini · Vitest · Playwright
+
+> QA//LAB is currently an execution-tracking and investigation platform. Native browser execution, artifact capture, and CI result ingestion are part of the roadmap.
+
+---
+
+### OmniEngine
+**Local-first AI / neuro-symbolic experimentation platform**
+
+A long-running project exploring how retrieval, knowledge graphs, verification, memory, uncertainty, and local inference can work together without depending on a conventional cloud-chatbot architecture.
+
+**Focus**
+- RAG over TXT / PDF sources
+- Knowledge-graph style reasoning
+- Evidence / verification layers
+- Local embeddings and inference
+- Uncertainty-aware processing
+- Structured outputs and validation
+
+**Stack:** Next.js · TypeScript · Python · PyTorch · FAISS · node-llama-cpp · Qwen · local inference
+
+[View OmniEngine →](https://github.com/sakipfikrret/OmniEngine)
+
+---
+
+## How I Build
+
+```text
+AI as an accelerator
         +
-Software Engineering
+Evidence before assumptions
         +
-Developer Tools
+Tests as part of the product
         +
+Security by design
+        +
+Human review where uncertainty matters
+```
+
+I care less about adding features for the sake of it and more about whether a system can **explain what happened when something goes wrong**.
+
+---
+
+## Technical Focus
+
+**Languages**
+
+`TypeScript` `JavaScript` `Python` `SQL`
+
+**Frontend**
+
+`React` `Next.js` `Vite` `HTML/CSS`
+
+**Backend**
+
+`Node.js` `Express` `SQLite` `REST APIs`
+
+**Quality Engineering**
+
+`Playwright` `Vitest` `E2E Testing` `API Testing` `Test Design` `Failure Triage` `Regression Testing`
+
+**AI / ML**
+
+`RAG` `Embeddings` `FAISS` `Local LLMs` `PyTorch` `Structured AI Outputs`
+
+---
+
+## What I'm Exploring
+
+I'm particularly interested in:
+
+- Quality Engineering and QA Automation
+- AI-assisted testing and failure analysis
+- AI system evaluation
+- Local / privacy-aware AI systems
+- Developer tooling and internal engineering platforms
+- Reliable software built with AI-assisted development workflows
+
+---
+
+## Current Direction
+
+```text
+QA Engineering
+      +
+AI Evaluation
+      +
 Automation
-        +
-Verification
+      +
+Reliable Software Systems
 ```
 
-I enjoy turning ideas into working systems and improving them through
-**experimentation, testing, iteration, and engineering discipline.**
-
-My main interests include:
-
-- Local-first AI systems
-- LLMs and agentic workflows
-- Developer productivity tools
-- Code analysis and verification
-- Backend and system architecture
-- Full-stack application development
-
-> **I don't just want software to work. I want to understand why it works, how it fails, and how to make it better.**
+The long-term goal is to build tools where **AI helps engineers investigate faster without hiding uncertainty or removing human judgment from the process**.
 
 ---
 
-# 🚀 Featured Projects
+## Connect
 
-<div align="center">
+I'm open to opportunities around **Quality Engineering, QA Automation, AI testing, and software engineering**.
 
-### 🧠 OmniEngine
-
-**Local-first AI engine for intelligent systems**
-
-</div>
-
-OmniEngine is my main long-term project exploring local AI, memory,
-knowledge representation, reasoning, verification, and autonomous workflows.
-
-```text
-Local AI
-   │
-   ├── LLM Inference
-   ├── Memory Systems
-   ├── Knowledge Graphs
-   ├── Graph-RAG
-   ├── Agent Orchestration
-   ├── Verification
-   └── Neuro-Symbolic Reasoning
-```
-
-The long-term goal is to build AI systems that can:
-
-`Reason` · `Remember` · `Retrieve` · `Verify` · `Act`
+[LinkedIn →](https://www.linkedin.com/in/sakip-fikret-çalkın/)  
+[GitHub →](https://github.com/sakipfikrret)
 
 ---
 
 <div align="center">
 
-### 🔍 OctoReview AI
-
-**AI-powered GitHub Pull Request review platform**
-
-</div>
-
-OctoReview is a developer-focused tool for analyzing GitHub Pull Requests
-and code changes using AI-assisted review workflows.
-
-**Technology**
-
-`React` `TypeScript` `Python` `Gemini` `GitHub API` `Vite` `Tailwind CSS`
-
-**Capabilities**
-
-```text
-GitHub PR
-   ↓
-Diff Analysis
-   ↓
-AI Review
-   ↓
-Security Findings
-   ↓
-Code Quality Analysis
-   ↓
-Interactive Review
-   ↓
-Verification
-```
-
-The project was developed using an **AI-assisted engineering workflow**:
-
-```text
-Product idea
-     ↓
-Architecture
-     ↓
-AI-assisted implementation
-     ↓
-Testing
-     ↓
-Feedback
-     ↓
-Iteration
-     ↓
-Code review
-```
-
----
-
-# 🛠️ Technology
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-</p>
-
-### Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,redis,docker,linux,git,github" />
-</p>
-
-### AI / Machine Learning
-
-```text
-LLMs
-Transformers
-PyTorch
-RAG
-Graph-RAG
-Knowledge Graphs
-Vector Search
-Agent Systems
-Local Inference
-```
-
----
-
-# ⚙️ How I Build
-
-My development process usually looks like this:
-
-```text
-              IDEA
-                │
-                ▼
-          ARCHITECTURE
-                │
-                ▼
-            PROTOTYPE
-                │
-                ▼
-              TEST
-                │
-                ▼
-       FIND WEAKNESSES
-                │
-                ▼
-             REFINE
-                │
-                ▼
-             VERIFY
-                │
-                ▼
-             REPEAT
-```
-
-I use AI tools as development partners, but generated code is never treated
-as automatically correct.
-
-**AI accelerates implementation.  
-Engineering validates the result.**
-
----
-
-# 🧠 Current Focus
-
-```text
-┌───────────────────────────────────────────┐
-│                                           │
-│            AI + ENGINEERING               │
-│                                           │
-│  Local AI          Developer Tools        │
-│      │                    │               │
-│      └──────────┬─────────┘               │
-│                 │                         │
-│             Automation                   │
-│                 │                         │
-│                 ▼                         │
-│             Verification                 │
-│                                           │
-└───────────────────────────────────────────┘
-```
-
-I'm particularly interested in systems that don't simply generate output,
-but can **inspect, execute, evaluate, verify, and improve their own work.**
-
----
-
-# 📈 Building in Public
-
-I prefer project-driven learning.
-
-Rather than building many disconnected demos, I like taking an idea,
-turning it into a working system, discovering its weaknesses, and iterating
-until the architecture becomes stronger.
-
-```text
-Build
- ↓
-Break
- ↓
-Understand
- ↓
-Fix
- ↓
-Improve
-```
-
----
-
-# 🎯 2026 Direction
-
-My current direction is focused on:
-
-**AI Systems + Developer Tools + Autonomous Workflows + Verification**
-
-Long term, I want to explore software where AI is not only generating code
-or information, but actively participating in the complete engineering loop.
-
----
-
-<div align="center">
-
-## Build → Test → Learn → Improve
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<sub>Build. Test. Investigate. Improve.</sub>
 
 </div>
